@@ -1,0 +1,8 @@
+command:mkdir
+options:-m sets the file permissions.
+        -p or –parents create a directory between two existing folders.
+        -v prints a message for each created directory.
+syntax: mkdir [option] directory_name
+example:
+mkdir -p Music/2020/Songs 
+ 
