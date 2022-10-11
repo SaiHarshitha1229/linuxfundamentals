@@ -1,0 +1,6 @@
+command:sudo
+options:
+-k or –reset-timestamp
+-g or –group=group
+-h or –host=host 
+examples: 
